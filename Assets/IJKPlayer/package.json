@@ -1,0 +1,10 @@
+﻿{
+  "name": "aka.ijkplayer.unity",
+  "displayName": "IJKPlayer-Unity",
+  "description": "IJKPlayer Unity",
+  "version": "1.0.0",
+  "unity": "2018.3",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
